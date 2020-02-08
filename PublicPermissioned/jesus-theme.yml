@@ -1,0 +1,6 @@
+extends: default
+image_align: center
+base_font_color: '000000'
+heading-h2-font-color: '0000aa'
+heading-h3-font-color: '0000aa'
+heading-h4-font-color: '0000aa'
